@@ -1,4 +1,4 @@
-## Hi there 👋
+![KakaoTalk_20241010_172350950](https://github.com/user-attachments/assets/0b752c64-8b28-4372-872c-30f594ceb2ca)
 
 <!--
 **lhs960330/lhs960330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
