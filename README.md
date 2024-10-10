@@ -1,8 +1,8 @@
-
 <div align="center">
-  <img src="![KakaoTalk_20241010_172350950](https://github.com/user-attachments/assets/0b752c64-8b28-4372-872c-30f594ceb2ca)" />
+  <img src="https://github.com/user-attachments/assets/0c6c725a-fe9d-4c07-ae87-1725239b0289" />
 </div>
 <!--
+
 **lhs960330/lhs960330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
